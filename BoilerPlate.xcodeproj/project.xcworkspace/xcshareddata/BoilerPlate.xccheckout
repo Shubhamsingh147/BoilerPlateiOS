@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84231619-4F15-4B43-B33B-883FC18385F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BoilerPlate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACE246F3917A6852BE30CC0BF80E932AFB956117</key>
+		<string>https://github.com/Shubhamsingh147/BoilerPlateiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BoilerPlate.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACE246F3917A6852BE30CC0BF80E932AFB956117</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Shubhamsingh147/BoilerPlateiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACE246F3917A6852BE30CC0BF80E932AFB956117</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACE246F3917A6852BE30CC0BF80E932AFB956117</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BoilerPlate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
